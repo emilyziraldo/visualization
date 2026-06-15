@@ -1,0 +1,29 @@
+Activity (#1)
+Q. How did this diagram of the Brooks use rational, moral and emotional appeal to make a case to audiences?
+
+rational appeal - shows this though very specific numbers to show actual conditions within the ship (e.g., 130 slaves being stowed under shelves)
+moral appeal - schamatic shows people having to crouch to move around the ship, showing just how cramped people are shows it may be immoral to have so many people on each ship
+emotional appeal - evokes feelings of injustice by depicting the really hard conditions on the ship (e.g., lack of personal space, probably hygiene and safety concerns)
+
+Activity (#2)
+Q. Let's discuss the two examples.
+How are they different? What does each visualiztion 'do'? What are the pros and cons of each?
+
+- Left graph is simplier and requires less cognitive load than the interactive graph. 
+- Left graph has less we can extract - gives the audience freedom to explore the graph.
+- Right graph might result in different interpretations based on what term you search for.
+- advantages of interactive plots: can be fun and interactive for user, allows the user to look for specific questions by interactive with the data
+- disadvantages of interactive plots: has to be hosted on a platform or software, needs to be accessible to the desired audience, requires more cognitive load
+
+Activity (#3)
+Q. What types of changes occur when we interact with this dynamic data visualization?
+- the disciplines move in terms of their order on the y-axis and the scale changes on the x-axis and therefore we cannot make direct comparisons between plots (i.e., not identity preserving)
+- this dynamic data visualization is an immediate change when both axes change in terms of scale or the order of the disciples changes and the association changes (based on the words being explored)
+- this dynamic data visualization can also show transitional change if the words explored produce similar assocations
+
+Q. Which spatial and retinal elements stay constant? Which change?
+- the colours stay the same, the disciplines listed on the y-axis stay the same, the total plot size stays the same
+- the order of the disciplines change on the y-axis, the scale on the x-axis changes
+
+Q. If you were redesigning this viz, would you choose to make different changes? Why orwhy not?
+- you could keep the order of the disciplines constant, which would increase comparability when other words are explored
