@@ -1,0 +1,22 @@
+1. Activity on Slides 10 to 14
+
+Visualization 1
+What information can we learn from this visualization?
+-number of people killed from gun killings in the US in 2018
+-number of stolen years from people killed - however it is not clear how accurate this information can be as it is not possible to know how many years someone would live
+-the age at which people were killed - cannot tell exactly but can get an idea based on the horizontal axis
+
+Is this an example of objective, neutral data visualization? Why or why not?
+-not objective - the language (e.g., stolen years) shows an opinion and evokes emotion based on the visualization (e.g., orange vs grey colour, waterfall effect)
+
+Visualization 2
+What information can we learn from this visualization?
+-gun violence has increased in the US over time
+-higher number of active shooter incidents was in 2010
+
+Is this an example of objective, neutral data visualization? Why or why not?
+-this a more objective data visualization - the colours and bar graph do not evoke the same emotion as Visualization 1
+
+What qualities or visual elements of Visualization #2 help to make it a “blank page”?
+-clean, 2D layout that does not covey emotion to the viewer
+
