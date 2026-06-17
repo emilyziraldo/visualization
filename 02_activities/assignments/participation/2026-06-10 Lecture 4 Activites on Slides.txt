@@ -1,0 +1,19 @@
+Flattening the Curve
+-	shows that we need to intervene early in disease outbreaks to flatten the curve (i.e., reduce the number of cases) and reduce stress on the healthcare system
+Issues with the graph
+-	graph has small font, which can be hard to read
+-	if someone can’t see red, they may not be able to see the red text information
+
+Activity: Alt-text
+What would be suitable alt-text for this image?
+-	A man in a blue shirt and a woman in a lab coat hold a conversation in a laboratory.
+-	Woman in laboratory coat in front of fume hood talking to a man.
+-	A woman in a lab coat and a man in a blue shirt talk in a scientific laboratory.
+The most appropriate alt-text can depend on the intended purpose of an image or visualization.
+
+Activity: Four types of descriptive content
+Describe the data visualization on this slide according to each of the four types of descriptive content.
+level 1: The visualization is a horizontal bar graph. The y axis is the names of different famous creative individuals and the x-axis is the time of day.
+level 2: The mean time spent sleeping among the famous creative people is XX hours. Most of the famous people wake up between 4 am and 6 am.
+level 3: The majority of creative work appears to happen in the morning and afternoon, with only 2-3 people doing creative work after 6 pm.
+level 4: The daily routines of famous creative people may depend on where they are living.
